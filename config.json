@@ -1,0 +1,9 @@
+{
+    "name": "Go 实战开发",
+    "introduction": "本书主要是通过实战项目来帮助大家获取 Go 知识，通过形形色色的项目来锻炼 Go 的各方面编程技巧",
+    "path": {
+        "content": "ebook/zh",
+        "toc": "ebook/zh/toc.md",
+        "readme": "ebook/zh/README.md"
+    }   
+}
