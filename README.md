@@ -12,7 +12,7 @@ Go实战开发
 
 欢迎大家加入QQ群：259316004 《Go实战开发》专用交流群
 
-论坛交流：http://bbs.mygolang.com
+论坛交流：https://gocn.io
 
 
 ## 授权许可
